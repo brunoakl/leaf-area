@@ -1,5 +1,5 @@
-#Macro no ImageJ
-##Autores: Bruno Machado Ferreira e Ernani Neto
+# Macro no ImageJ
+## Autores: Bruno Machado Ferreira e Ernani Neto
 
 Uso da macro:
 - Abra o ImageJ.
